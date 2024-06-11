@@ -1,4 +1,4 @@
-// Pricing Table - Updated June 8, 2024
+// Pricing Table - Updated June 11, 2024
 function noop() { }
 function assign(tar, src) {
     // @ts-ignore
