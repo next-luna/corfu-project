@@ -1,4 +1,4 @@
-// Icon Callouts - Updated June 18, 2024
+// Icon Callouts - Updated July 19, 2024
 function noop() { }
 function assign(tar, src) {
     // @ts-ignore
